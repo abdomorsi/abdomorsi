@@ -1,7 +1,13 @@
 # Abd-Elrahman Morsy - Software Engineer
 
 ## About Me
-Proactive and innovative Junior Software Engineer with a strong foundation in object-oriented programming, software design principles, and competitive programming. Passionate about crafting scalable, maintainable, and high-quality software solutions while continuously learning and adopting new technologies.
+Hey there! 👋 I'm Abdelrahman, and I graduated from Cairo University with a Computer Science degree back in 2021. During my uni days, I got super into competitive programming - it really sharpened my problem-solving skills! I even made it to the ECPC competition twice, in 2018 and 2020.
+
+Then in January 2022, I jumped into my military service, where I got to wear the hat of a Full-Stack Developer. I spent my time building cool desktop and web apps with C# and [ASP.NET] MVC, plus doing some network admin stuff on the side.
+
+After wrapping up my service in 2023, I kicked off my tech career as a Junior .NET Developer at Premium Card Company. My main gig there was crafting REST APIs, keeping our software running smoothly, and diving into Visual Basic and some pretty fancy SQL queries.
+
+These days, I'm rocking it as a Software Engineer at EFG Holding. I get to build awesome backend services with .NET, play with modern architecture patterns like Clean Architecture and CQRS, and make sure our apps are running like a well-oiled machine. I also have fun creating WPF applications and working with some amazing folks in our Agile teams to make magic happen!
 ## Professional Experience
 
 ### **Software Engineer**  
