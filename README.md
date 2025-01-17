@@ -11,7 +11,7 @@ These days, I'm rocking it as a Software Engineer at EFG Holding. I get to build
 ## Professional Experience
 
 ### **Software Engineer**  
-**EFG Hermes**  
+**EFG Holding**  
 *Feb 2024 – Present*  
 - Developed backend services using .NET technologies.  
 - Built and maintained Windows Presentation Foundation (WPF) applications.  
