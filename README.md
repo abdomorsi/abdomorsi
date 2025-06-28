@@ -1,97 +1,152 @@
+# Hi there! 👋 I'm Abd-Elrahman Morsy
 
-Hey there! I'm Abd-Elrahman, a passionate .NET developer and Cairo University Computer Science graduate (2021). My journey in tech started through competitive programming, where I honed strong problem-solving skills and became a 2x ECPC finalist (2018, 2020).
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=.NET+Developer+%7C+Problem+Solver;Clean+Architecture+Enthusiast;Competitive+Programming+Veteran;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
-After completing military service in 2022 (where I built full-stack applications with C# and ASP.NET MVC), I transitioned into professional development — first at Premium Card as a Junior Backend Developer, then at EFG Holding as a Software Engineer.
+</div>
 
-Today, I specialize in building scalable backend systems, WPF desktop apps, and full-stack web solutions using .NET, Angular, and modern architectural patterns like Clean Architecture and CQRS. I enjoy working in Agile teams, brainstorming product ideas, and delivering clean, maintainable software that solves real problems.
+---
 
-💼 Professional Experience
-Software Engineer
-EFG Holding — Feb 2024 – Present
+## 🚀 About Me
 
-Built backend services using .NET, applying CQRS, Clean Architecture, and best practices.
+**Passionate .NET Developer** and **Cairo University Computer Science Graduate** with a journey rooted in competitive programming and driven by clean, scalable software solutions.
 
-Developed and maintained WPF desktop applications using the code-behind pattern.
+- 🎯 **Current Focus:** Building microservices with .NET, Angular, and Clean Architecture
+- 🏆 **Competitive Programming:** 2x ECPC Finalist (2018, 2020) | 300+ problems solved
+- 💼 **Professional Experience:** Software Engineer at EFG Holding | Ex-Premium Card
+- 🌱 **Always Learning:** Exploring cloud architectures, DevOps practices, and emerging tech
+- 🤝 **Open to:** Collaborating on open-source projects and innovative solutions
 
-Delivered dynamic Angular web apps integrated with .NET APIs.
+---
 
-Integrated RabbitMQ for asynchronous communication between microservices.
+## 🛠️ Tech Stack & Skills
 
-Collaborated in Agile sprints, participated in planning, and ensured timely delivery.
+<div align="center">
 
-Focused on performance optimization, scalability, and clean code.
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Junior Backend Developer
-Premium Card — Mar 2023 – Feb 2024
+### Databases & Tools
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-Developed RESTful APIs using .NET Core, C#, and SQL Server.
+### Development & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Maintained and refactored legacy apps written in Visual Basic .NET.
+</div>
 
-Created reports using SSRS and Microsoft Report Viewer.
+---
 
-Participated in code reviews, debugging sessions, and documentation writing.
+## 🏢 Professional Journey
 
-🛠️ Skills
-Languages & Frameworks: C#, .NET Core, ASP.NET Core, WPF, Angular, Blazor, VB.NET
+### 💼 **Software Engineer** | EFG Holding
+*February 2024 – Present*
+- 🏗️ **Microservices Architecture:** Built scalable backend services using .NET Core and Clean Architecture
+- 🔄 **CQRS Implementation:** Applied Command Query Responsibility Segregation for complex business logic
+- 🌐 **Full-Stack Development:** Delivered dynamic Angular applications integrated with .NET APIs
+- 📨 **Message Queuing:** Integrated RabbitMQ for asynchronous microservices communication
+- 🎯 **Agile Delivery:** Collaborated in sprint planning and delivered high-quality solutions on time
 
-Architecture: Clean Architecture, CQRS, Design Patterns
+### 🛠️ **Junior Backend Developer** | Premium Card
+*March 2023 – February 2024*
+- ⚡ **API Development:** Built RESTful APIs using .NET Core, C#, and SQL Server
+- 🔧 **Legacy Maintenance:** Maintained and refactored VB.NET applications
+- 📊 **Reporting Solutions:** Created business reports using SSRS and Microsoft Report Viewer
+- 🔍 **Code Quality:** Participated in code reviews, debugging, and technical documentation
 
-Databases: SQL Server, T-SQL, Entity Framework Core
+---
 
-Dev Tools: Git, Azure DevOps, Postman
+## 🚀 Featured Projects
 
-Practices: Agile, REST API Development, Code Reviews, Unit Testing
+<div align="center">
 
-Security: ASP.NET Identity, JWT Authentication
+### 🔹 [Full-Stack Expense Tracker](https://github.com/yourusername/expense-tracker)
+**Modern expense management system with enterprise-grade architecture**
 
-Competitive Programming: Data Structures, Algorithms (C++, 300+ problems solved)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-🚀 Side Projects
-🔹 Full-Stack Expense Tracker (Angular + ASP.NET Web API)
-A secure and scalable expense management system with modern full-stack architecture.
+✅ RESTful API with ASP.NET Web API 
+✅ Angular frontend with reactive forms and modular architecture  
+✅ JWT Authentication & ASP.NET Identity integration  
+✅ Secure role-based authorization with route guards  
 
-✅ RESTful API built in ASP.NET Web API (.NET 6+)
+### 🔹 [X Zone - Social Gamification App](https://github.com/yourusername/x-zone)
+**Productivity app combining gamification with social collaboration**
 
-✅ Angular frontend with reactive forms and modular structure
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-✅ JWT Authentication and ASP.NET Identity
+🎮 Gamified task management with point-based rewards  
+💬 Real-time chat functionality  
+🏆 User ranking system with badges and achievements  
+🏗️ Clean Architecture with Observer, Factory, Repository patterns  
 
-✅ Deployed-ready and integrated with SQL Server
+### 🔹 [Hall Lighting Control System](https://github.com/yourusername/lighting-control)
+**WPF desktop application for intelligent lighting management**
 
-Tech Stack:
+![WPF](https://img.shields.io/badge/WPF-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-Backend: ASP.NET Web API, EF Core, SQL Server
+💡 Zone-based lighting control with brightness adjustment  
+🌐 Network communication for hardware integration  
+⚡ Real-time responsiveness with clean UI design  
 
-Frontend: Angular 15+, RxJS, Bootstrap
+</div>
 
-Tools: Git, GitHub, Postman, Visual Studio, VS Code
+---
 
-🔐 Implemented secure token-based authentication and role-based authorization with route guards.
+## 🏆 Achievements & Recognition
 
-🔹 X Zone – Social Gamification App
-A social productivity app combining gamification with user collaboration.
+<div align="center">
 
-🛠️ Tech: Flutter (frontend), ASP.NET Core (backend), Azure
+| 🥇 Achievement | 📅 Year | 📝 Description |
+|---------------|---------|----------------|
+| **ECPC Finalist** | 2018, 2020 | Egyptian Collegiate Programming Contest |
+| **Problem Solver** | 2017-Present | 300+ algorithmic problems solved |
 
-📌 Features: Gamified to-do list, real-time chat, user badges, group recommendations
+</div>
 
-🧩 Patterns: Observer, Factory, Repository
-
-🔹 Hall Lighting Control – WPF Desktop Application
-A .NET-based desktop system to control lighting zones in large halls.
-
-📌 Features: On/off switching, brightness control, network communication
-
-🧠 Focus: Real-time responsiveness, clean user interface, reliable hardware control
-
+---
 
 
-🎖 Achievements
-🥇 ECPC Finalist — 2018 & 2020 (Egyptian Collegiate Programming Contest)
+## 🎯 Currently Exploring
 
-✅ Solved 300+ problems on platforms like Codeforces, LeetCode, and HackerRank
+- 🔍 **Microservices Patterns:** Advanced distributed system architectures
+- ☁️ **Cloud Technologies:** Azure services and containerization with Docker
 
-🎓 Education
-Bachelor's Degree in Computer Science
-Faculty of Computers and Artificial Intelligence, Cairo University — GPA: 3.00
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdomorsy389@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abdomorsy389)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is like poetry - it should be elegant, purposeful, and easy to understand"*
+
+**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
