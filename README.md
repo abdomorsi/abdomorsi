@@ -69,8 +69,8 @@
 
 <div align="center">
 
-### 🔹 [Full-Stack Expense Tracker](https://github.com/yourusername/expense-tracker)
-**Modern expense management system with enterprise-grade architecture**
+### 🔹 [Full-Stack Expense Tracker](https://github.com/abdomorsi/ExpensesTrackerAPP)
+**Expense management system **
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
