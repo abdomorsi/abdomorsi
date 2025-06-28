@@ -1,95 +1,98 @@
-# Abd-Elrahman Morsy - Software Engineer
+💻 Abd-Elrahman Morsy – Software Engineer
+👋 About Me
+Hey there! I'm Abd-Elrahman, a passionate .NET developer and Cairo University Computer Science graduate (2021). My journey in tech started through competitive programming, where I honed strong problem-solving skills and became a 2x ECPC finalist (2018, 2020).
 
-## About Me
-Hey there! 👋 I'm Abdelrahman, and I graduated from Cairo University with a Computer Science degree back in 2021. During my uni days, I got super into competitive programming - it really sharpened my problem-solving skills! I even made it to the ECPC competition twice, in 2018 and 2020.
+After completing military service in 2022 (where I built full-stack applications with C# and ASP.NET MVC), I transitioned into professional development — first at Premium Card as a Junior Backend Developer, then at EFG Holding as a Software Engineer.
 
-Then in January 2022, I jumped into my military service, where I got to wear the hat of a Full-Stack Developer. I spent my time building cool desktop and web apps with C# and [ASP.NET] MVC, plus doing some network admin stuff on the side.
+Today, I specialize in building scalable backend systems, WPF desktop apps, and full-stack web solutions using .NET, Angular, and modern architectural patterns like Clean Architecture and CQRS. I enjoy working in Agile teams, brainstorming product ideas, and delivering clean, maintainable software that solves real problems.
 
-After wrapping up my service in 2023, I kicked off my tech career as a Junior .NET Developer at Premium Card Company. My main gig there was crafting REST APIs, keeping our software running smoothly, and diving into Visual Basic and some pretty fancy SQL queries.
+💼 Professional Experience
+Software Engineer
+EFG Holding — Feb 2024 – Present
 
-These days, I'm rocking it as a Software Engineer at EFG Holding. I get to build awesome backend services with .NET, play with modern architecture patterns like Clean Architecture and CQRS, and make sure our apps are running like a well-oiled machine. I also have fun creating WPF applications and working with some amazing folks in our Agile teams to make magic happen!
-## Professional Experience
+Built backend services using .NET, applying CQRS, Clean Architecture, and best practices.
 
-### **Software Engineer**  
-**EFG Holding**  
-*Feb 2024 – Present*  
-- Developed backend services using .NET technologies.  
-- Built and maintained Windows Presentation Foundation (WPF) applications.  
-- Designed and developed dynamic web applications using Angular.  
-- Implemented various design patterns and architectures for robust systems.  
-- Utilized RabbitMQ for efficient messaging and communication between services.  
-- Actively participated in planning meetings and provided innovative solutions to technical challenges.  
-- Worked within Agile methodologies to ensure seamless project execution.  
-- Collaborated with cross-functional teams to deliver robust, scalable, and efficient applications.  
-- Ensured software solutions were maintainable, high-quality, and optimized for performance.  
+Developed and maintained WPF desktop applications using the code-behind pattern.
 
-### **Junior Backend Developer**  
-**Premium Card**  
-*Mar 2023 – Feb 2024*  
-- Wrote clean, efficient, and reusable code in C#.  
-- Improved and maintained existing software applications.  
-- Developed RESTful APIs to integrate with backend databases using .NET Core.  
-- Wrote advanced SQL queries to be presented through SSRS or Microsoft Report Viewer.  
-- Troubleshot and debugged issues in existing applications.  
-- Conducted code reviews to ensure adherence to coding standards and best practices.  
-- Prepared detailed technical documentation to assist with development and maintenance.  
+Delivered dynamic Angular web apps integrated with .NET APIs.
 
-## Skills
+Integrated RabbitMQ for asynchronous communication between microservices.
 
-- **Backend Development:**  
-  - C#, .NET Core, ASP.NET Core, REST APIs, RabbitMQ  
+Collaborated in Agile sprints, participated in planning, and ensured timely delivery.
 
-- **Web Development:**  
-  - Angular, Blazor  
+Focused on performance optimization, scalability, and clean code.
 
-- **Databases:**  
-  - Microsoft SQL Server, Transact-SQL (T-SQL), SQL Stored Procedures  
+Junior Backend Developer
+Premium Card — Mar 2023 – Feb 2024
 
-- **Software Architecture:**  
-  - Design Patterns, WPF, Full-Stack Development  
+Developed RESTful APIs using .NET Core, C#, and SQL Server.
 
-- **Tools & Technologies:**  
-  - Visual Basic .NET (VB.NET), SQL Server Reporting Services (SSRS), Microsoft Report Viewer  
+Maintained and refactored legacy apps written in Visual Basic .NET.
 
-- **Development Practices:**  
-  - Agile Methodologies, Code Reviews, Technical Documentation  
-## Side - Projects
+Created reports using SSRS and Microsoft Report Viewer.
 
-### [X Zone - Social Gamification App](https://github.com/abdomorsi/xZoneAPI---Social-Gamification-app--master)
-A productivity-boosting social gamification app that integrates gaming mechanics with social motivation.
-- **Technologies**: Flutter (frontend), ASP.NET Core (backend), Azure (hosting).
-- **Features**:
-  - Gamified to-do list for users.
-  - Real-time chat and group recommendation system.
-  - User rankings and badge display system.
-- **Design Patterns**: Observer, Factory, Repository.
+Participated in code reviews, debugging sessions, and documentation writing.
 
-### Hall Lighting Control Desktop Application
-A desktop application developed using .NET to control and manage hall lighting systems over a network-connected interface.
-- **Features**:
-  - Control light settings (on/off, brightness, zone selection).
-  - Real-time communication with hall electrical systems.
-  - User-friendly interface for efficient lighting management.
-- **Focus**: Reliable communication and high-performance design.
+🛠️ Skills
+Languages & Frameworks: C#, .NET Core, ASP.NET Core, WPF, Angular, Blazor, VB.NET
 
-## Skills
-- **Backend Development**: .NET, .NET Core, REST APIs, C#.
-- **Frontend Development**: Angular, Blazor, WPF.
-- **Software Design**: CQRS, Clean Architecture, Design Patterns.
-- **Databases**: SQL Server, T-SQL, Entity Framework.
-- **Tools & Frameworks**: Git, RabbitMQ, Azure DevOps.
-- **Competitive Programming**: C++, Data Structures, Algorithms.
+Architecture: Clean Architecture, CQRS, Design Patterns
 
-## Achievements
-- **ECPC Finalist (2018, 2020)** – Egyptian Collegiate Programming Contest.
-- Solved over 300 programming problems on competitive programming platforms.
+Databases: SQL Server, T-SQL, Entity Framework Core
 
-## Education
-**Bachelor's Degree in Computer Science**  
-Faculty of Computers and Artificial Intelligence, Cairo University (GPA: 3.00)
+Dev Tools: Git, Azure DevOps, Postman
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-morsy-0a89a4153/)
-- [LeetCode](https://leetcode.com/Boodii/)
-- [Codeforces](https://codeforces.com/profile/abdomorsy389)
-- [HackerRank](https://www.hackerrank.com/abdomorsy389?hr_r=1)
+Practices: Agile, REST API Development, Code Reviews, Unit Testing
+
+Security: ASP.NET Identity, JWT Authentication
+
+Competitive Programming: Data Structures, Algorithms (C++, 300+ problems solved)
+
+🚀 Side Projects
+🔹 Full-Stack Expense Tracker (Angular + ASP.NET Web API)
+A secure and scalable expense management system with modern full-stack architecture.
+
+✅ RESTful API built in ASP.NET Web API (.NET 6+)
+
+✅ Angular frontend with reactive forms and modular structure
+
+✅ JWT Authentication and ASP.NET Identity
+
+✅ Deployed-ready and integrated with SQL Server
+
+Tech Stack:
+
+Backend: ASP.NET Web API, EF Core, SQL Server
+
+Frontend: Angular 15+, RxJS, Bootstrap
+
+Tools: Git, GitHub, Postman, Visual Studio, VS Code
+
+🔐 Implemented secure token-based authentication and role-based authorization with route guards.
+
+🔹 X Zone – Social Gamification App
+A social productivity app combining gamification with user collaboration.
+
+🛠️ Tech: Flutter (frontend), ASP.NET Core (backend), Azure
+
+📌 Features: Gamified to-do list, real-time chat, user badges, group recommendations
+
+🧩 Patterns: Observer, Factory, Repository
+
+🔹 Hall Lighting Control – WPF Desktop Application
+A .NET-based desktop system to control lighting zones in large halls.
+
+📌 Features: On/off switching, brightness control, network communication
+
+🧠 Focus: Real-time responsiveness, clean user interface, reliable hardware control
+
+
+
+🎖 Achievements
+🥇 ECPC Finalist — 2018 & 2020 (Egyptian Collegiate Programming Contest)
+
+✅ Solved 300+ problems on platforms like Codeforces, LeetCode, and HackerRank
+
+🎓 Education
+Bachelor's Degree in Computer Science
+Faculty of Computers and Artificial Intelligence, Cairo University — GPA: 3.00
