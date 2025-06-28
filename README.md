@@ -1,5 +1,4 @@
-💻 Abd-Elrahman Morsy – Software Engineer
-👋 About Me
+
 Hey there! I'm Abd-Elrahman, a passionate .NET developer and Cairo University Computer Science graduate (2021). My journey in tech started through competitive programming, where I honed strong problem-solving skills and became a 2x ECPC finalist (2018, 2020).
 
 After completing military service in 2022 (where I built full-stack applications with C# and ASP.NET MVC), I transitioned into professional development — first at Premium Card as a Junior Backend Developer, then at EFG Holding as a Software Engineer.
